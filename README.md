@@ -4,4 +4,6 @@ Please email me (okellygraves@hmc.edu) if you find any errors and I'll try to fi
 If someone emails me that they've checked through a file,
 I'll add that to a commit message for that homework so others won't have to check through as much.
 
+I removed page numbers so you can just add blank pages whenever you need more room to complete a problem.
+
 Note: Each TeX file also requires the hmcpset.cls file.
